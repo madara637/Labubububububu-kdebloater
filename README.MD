@@ -1,6 +1,6 @@
-labububububu kdebloater
+# labububububu kdebloater
 
-#install
+## install
 ```
 git clone https://github.com/madara637/Labubububububu-kdebloater.git
 cd Labubububububu-kdebloater
@@ -8,7 +8,7 @@ g++ kdebloat.cpp -o kdebloater
 sudo mv kdebloater /usr/local/bin/
 ```
 
-#Usage
+## Usage
 ```
 sudo kdebloater
 
@@ -19,6 +19,6 @@ sudo kdebloater -y
 sudo kdebloater -h
 ```
 
-#license
+## license
 
 I dont really fucking care
